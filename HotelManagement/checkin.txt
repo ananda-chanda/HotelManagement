@@ -1,0 +1,2 @@
+Ahasan,1102,2000,Single Bed
+Ahasan,2115,7000,Double Bed

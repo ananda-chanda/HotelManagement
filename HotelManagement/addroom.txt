@@ -1,0 +1,6 @@
+1102,3000,Single Bed
+2110,5000,Double Bed
+1115,3000,Single Bed
+2115,7000,Double Bed
+2216,8000,Special Bed
+786,4700,Double Bed
